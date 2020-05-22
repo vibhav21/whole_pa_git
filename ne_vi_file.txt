@@ -1,1 +1,5 @@
 this is my first file
+this is the secodn line
+this is the third
+this assignmnet is to get to know about
+git operations
